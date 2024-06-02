@@ -46,7 +46,11 @@ hashnode 之前从来没听过。
     
 2. 好评 可以自动backup markdown格式的文章到github。
     
-    1. 也有import from github的功能但是要付费。 2333
+    1. 每次update，都会有对应的commit。
+        
+        1. 感动。好正常的做法。
+            
+    2. 也有import from github的功能但是要付费。 2333
         
 3. 分类的功能叫做series。
     
