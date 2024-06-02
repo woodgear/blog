@@ -3,7 +3,7 @@ title: "关于写博客这件事"
 seoTitle: "博客平台评测"
 datePublished: Sat Jun 01 2024 16:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clwxdbobo000109mhce08glun
-slug: 5ywz5lqo5yaz5y2a5a6i6lz5lu25lql
+slug: talking-about-those-blog-post-platform
 tags: 5p2c6lci
 
 ---
@@ -50,7 +50,7 @@ hashnode 之前从来没听过。
 
 1. 各种页面,有配置主题 小组件什么的
     
-2. 好评 可以自动backup markdown格式的文章到github。
+2. 超超好评 可以自动backup markdown格式的文章到[github](https://github.com/woodgear/blog/blob/master/clwxdbobo000109mhce08glun.md)。
     
     1. 每次update，都会有对应的commit。
         
@@ -82,7 +82,6 @@ dev.to 不是一个独立的blog平台。更像是知乎这种，不像hashnode�
     
     1. preview 时会提示一些优化的建议。对markdown格式有感知。很好。
         
-    
 
 #### 后台
 
