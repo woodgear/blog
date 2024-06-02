@@ -14,7 +14,7 @@ tags: 5p2c6lci
 
 1. 可以用纯markdown格式写/可以导出为纯markdown格式。
     
-    1. 这个问题本质上在于我希望数据源是我自己的git repo。算是local first的一种变通方式。最起码，我们的blog不能丢。
+    1. 这个问题本质上在于我希望数据源是我自己的git repo。算是local first的一种变通方式。最起码，我的纯文本格式的blog不能丢。
         
 
 # 点评
@@ -27,7 +27,7 @@ tags: 5p2c6lci
 
 ### hashnode
 
-hashnode 之前从来没听过。但是简单试用了下。
+hashnode 之前从来没听过。
 
 #### 编辑
 
@@ -37,6 +37,8 @@ hashnode 之前从来没听过。但是简单试用了下。
         
     2. 现在（2024-0602） 有点在推ai辅助写作的感觉。有ai相关的功能。暂时不做评价
         
+        1. 发布的时候可以设置seo title。
+            
 
 #### 后台
 
@@ -44,7 +46,7 @@ hashnode 之前从来没听过。但是简单试用了下。
     
 2. 好评 可以自动backup markdown格式的文章到github。
     
-    1. 也import from github的功能但是要付费。 2333
+    1. 也有import from github的功能但是要付费。 2333
         
 3. 分类的功能叫做series。
     
