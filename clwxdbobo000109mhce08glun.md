@@ -1,6 +1,7 @@
 ---
 title: "关于写博客这件事"
-datePublished: Sun Jun 02 2024 09:57:24 GMT+0000 (Coordinated Universal Time)
+seoTitle: "博客平台评测"
+datePublished: Sat Jun 01 2024 16:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clwxdbobo000109mhce08glun
 slug: 5ywz5lqo5yaz5y2a5a6i6lz5lu25lql
 tags: 5p2c6lci
@@ -28,8 +29,23 @@ tags: 5p2c6lci
 
 hashnode 之前从来没听过。但是简单试用了下。
 
+#### 编辑
+
 1. 在线的blog 编辑功能，感觉有点类似notion的那种块编辑器的感觉。
     
     1. 编辑器有raw markdown editor模式，好评
         
     2. 现在（2024-0602） 有点在推ai辅助写作的感觉。有ai相关的功能。暂时不做评价
+        
+
+#### 后台
+
+1. 各种页面,有配置主题 小组件什么的
+    
+2. 好评 可以自动backup markdown格式的文章到github。
+    
+    1. 也import from github的功能但是要付费。 2333
+        
+3. 分类的功能叫做series。
+    
+4. 好评 会自动生成rss
