@@ -39,6 +39,12 @@ hashnode 之前从来没听过。
         
         1. 发布的时候可以设置seo title。
             
+    3. 可以设置原始url和原始发布日期
+        
+        1. add original url
+            
+        2. publish on backdate
+            
 
 #### 后台
 
